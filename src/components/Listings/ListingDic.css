@@ -1,0 +1,19 @@
+.listings{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    padding: 20px;
+}
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:auto; /* or any specific height */
+  }
+@media(max-width:800px){
+    .listings{
+        
+        padding: 10px;
+    }
+    
+}
