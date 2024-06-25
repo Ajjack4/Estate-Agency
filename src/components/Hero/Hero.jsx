@@ -11,7 +11,7 @@ const Hero = () => {
       <div className='hero-text'>
         <h1>Turning Your Realty Dreams into Reality</h1>
         <p>We pride ourselves on turning your real estate dreams into reality with unparalleled dedication and expertise. With a deep understanding of the market and a commitment to personalized service, we are here to guide you through every step of your property journey.</p>
-      <button className='btn'><Link to='listings' smooth={true} offset={-220} duration={500}>Explore More</Link><img src={dark_arrow}/></button>
+      <button className='btn'><Link to='listings' smooth={true} offset={-220} duration={2250}>Explore More<img src={dark_arrow}/></Link></button>
       </div>
       
       
