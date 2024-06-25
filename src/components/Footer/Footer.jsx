@@ -13,9 +13,9 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-section">
           <h4>Shree Swami Samartha Properties</h4>
-          <p>1234 Shankar Nagar, Near MG Road,<br />
-             Pune, Maharashtra 411001</p>
-          <p>Email: info@swamisamarthaproperties.com</p>
+          <p> Capital city Nighoje Chakan, <br />
+             Pune, Maharashtra 410501</p>
+          <p>Email: shreeswamisamartha@gmail.com</p>
           <p>Phone: +91 99606 56596</p>
         </div>
 

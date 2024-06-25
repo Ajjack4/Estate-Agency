@@ -5,7 +5,7 @@ import Listing_2 from '../../assets/Listing-2.jpg';
 import Listing_3 from '../../assets/Listing-3.jpg';
 import Listing_4 from '../../assets/Listing-4.jpg';
 import Listing_5 from '../../assets/Listing-5.jpg';
-import black_arrow from '../../assets/white-arrow.png';
+// import black_arrow from '../../assets/white-arrow.png';
 
 const ListingDic = () => {
   return (
@@ -38,9 +38,11 @@ const ListingDic = () => {
       />
       
     </div>
-    <div className="button-container">
+    {/* <div className="button-container">
     <button className='btn darkbtn'>See More Properties<img src={black_arrow}/></button>
-    </div>
+    </div> */}
+
+    
     </div>
 
       
