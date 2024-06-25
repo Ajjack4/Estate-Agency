@@ -12,7 +12,7 @@ const Contact = () => {
         <p>Ready to find your dream home or sell your property? Contact us today to book an appointment and let our expert team guide you through every step of the process.</p>
         <ul>
             <li><img src={mail_icon}/>contact@shreeswamisamartha.com</li>
-            <li><img src={phone_icon}/>+91 9876543210</li>
+            <li><img src={phone_icon}/>+91 99606 56596</li>
             <li><img src={location_icon}/>Shree Swami Samartha Properties, 1234 Shankar Nagar, Near MG Road, Pune, Maharashtra 411001.</li>
         </ul>
       </div>

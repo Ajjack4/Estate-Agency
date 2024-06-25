@@ -16,7 +16,7 @@ const Footer = () => {
           <p>1234 Shankar Nagar, Near MG Road,<br />
              Pune, Maharashtra 411001</p>
           <p>Email: info@swamisamarthaproperties.com</p>
-          <p>Phone: +91 98765 43210</p>
+          <p>Phone: +91 99606 56596</p>
         </div>
 
         <div className="footer-section">
