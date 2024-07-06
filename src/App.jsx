@@ -2,7 +2,7 @@
 
 import Hero from "./components/Hero/Hero"
 import Navbar from "./components/Navbar/Navbar"
-import Agents from "./components/Agents/Agents"
+// import Agents from "./components/Agents/Agents"
 import Title from "./components/Title/Title"
 import About from "./components/About/About"
 import ListingDic from "./components/Listings/ListingDic"
@@ -18,8 +18,8 @@ const App = () => {
       <Navbar/>
       <Hero/>
       <div className="container">
-        <Title subTitle=' ' title='Meet The Team'/>
-       <Agents/>
+        {/* <Title subTitle=' ' title='Meet The Team'/>
+       <Agents/> */}
        <About/>
        <Title subTitle='Listing' title='Featured Properties'/>
        <ListingDic/>

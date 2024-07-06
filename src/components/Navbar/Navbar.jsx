@@ -28,7 +28,7 @@ const Navbar = () => {
         <img src={logo} alt="" className='logo'/>
         <ul className={menuOpen?'':'hide-mobile-menu'} >
             <li ><Link to='hero' smooth={true} offset={0} duration={500} ><div onClick={toggleMenu}>Home</div></Link></li>
-            <li ><Link to='agents' smooth={true} offset={-240} duration={500}><div onClick={toggleMenu}>Team</div></Link></li>
+           
             <li ><Link to='about' smooth={true} offset={-150} duration={500}><div onClick={toggleMenu}>About</div></Link></li>
             <li ><Link to='listings' smooth={true} offset={-220} duration={500}><div onClick={toggleMenu}>Listing</div></Link></li>
             <li ><Link to='testimonials' smooth={true} offset={-260} duration={500}><div onClick={toggleMenu}>Testimonial</div></Link></li>
