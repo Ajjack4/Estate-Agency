@@ -102,13 +102,13 @@
 @media (max-width:600px){
     .user-info{
         display:block;
-        margin-bottom :8px;
+        margin-bottom :6px;
         font-size: 8px;
      }
      .user-info h3{
         font-size: 10px;
      }
     .slider p{
-        font-size:12px;
+        font-size:9px;
     }
 }
